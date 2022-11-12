@@ -15,6 +15,9 @@
 ### 2021
 * Unsteady aerodynamics of porous aerofoils ([MATLAB](https://github.com/baddoo/unsteady-porous-aerofoils))
 
+### 2022
+* Reformulated Vortex Particle Method and Meshless Large Eddy Simulation of Multirotor Aircraft. ([Julia](https://github.com/byuflowlab/FLOWUnsteady/releases/tag/v3.1.0))
+
 ## Books
 * Katz, Low-Speed Aerodynamics ([Fortran](https://github.com/cibinjoseph/KatzPlotkin), [Fortran, Python](https://github.com/joelguerrero/low_speed_aerodynamics_KatzPlotkin), [Python](https://github.com/alwinw/KatzPlotkinPy))
 

@@ -62,3 +62,6 @@
 * An AI-based non-intrusive reduced-order model for extended domains applied to multiphase flow in pipes. ([TensorFlow](https://github.com/acse-zrw20/DD-GAN-AE))
 * An unsupervised latent/output physics-informed convolutional-LSTM network for solving partial differential equations using peridynamic differential operator. ([TensorFlow](https://github.com/ehsanhaghighat/PI-rCNN))
 * Derivative-informed projected neural networks for high-dimensional parametric maps governed by PDEs. ([Python](https://github.com/hippylib/hippyflow))
+
+## 2023
+* Multiresolution convolutional autoencoders. ([Pytorch](https://github.com/luckystarufo/MrCAE))

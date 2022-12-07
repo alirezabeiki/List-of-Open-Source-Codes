@@ -10,6 +10,9 @@
 ### 2019
 * Time–frequency localisation of intermittent dynamics in a bistable turbulent swirl flame. ([Python](https://github.com/chuckedfromspace/mrpod))
 
+### 2022
+* Improved convergence of the spectral proper orthogonal decomposition through time shifting. ([MATLAB](https://github.com/DiegoCPB/Shifted-SPOD))
+
 
 ## Some Repositories
 * Spectral Proper Orthgonal Decomposition (SPOD) ([Python](https://github.com/mathe-lab/PySPOD), [Python](https://github.com/HexFluid/spod_python), [MATLAB](https://github.com/SpectralPOD/spod_matlab))

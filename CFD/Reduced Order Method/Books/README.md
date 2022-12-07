@@ -9,3 +9,5 @@
 ## 2019
 * Data-Driven Science and Engineering, Machine Learning, Dynamical Systems, and Control, ([Python](https://github.com/dynamicslab/databook_python), [MATLAB](https://github.com/dynamicslab/databook_matlab))
 
+## 2021
+* PERFORM A Python package for developing reduced-order models for reacting fluid flows. ([Python](https://github.com/cwentland0/perform))

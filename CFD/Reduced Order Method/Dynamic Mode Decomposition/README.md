@@ -38,6 +38,7 @@
 * Dynamic mode decomposition with core sketch, ([Python](https://github.com/Shady-Ahmed/SketchyDMD))
 * Bagging, optimized dynamic mode decomposition for robust, stable forecasting with spatial and temporal uncertainty quantification. ([MATLAB](https://github.com/dsashid/BOP-DMD))
 * Swarm Modeling With Dynamic Mode Decomposition. ([Python](https://github.com/e-vic/swarmDMD))
+* FlexWing-ROM A matlab framework for data-driven reduced-order modeling of flexible wings. ([MATLAB](https://github.com/urban-fasel/FlexWingROM))
 
 
 ## Open Source Softwares

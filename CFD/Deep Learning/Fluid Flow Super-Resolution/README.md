@@ -20,6 +20,7 @@
 
 ### 2021
 * Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels. ([Pytorch](https://github.com/Jianxun-Wang/PICNNSR))
+* Supervised convolutional network for three-dimensional fluid data reconstruction from sectional flow fields with adaptive super-resolution assistance. ([TensorFlow](https://github.com/MitsuMatsu/2D-3D-CNN))
 
 ### 2022 
 * Physics-informed deep super-resolution of spatiotemporal data ([Pytorch](https://github.com/paulpuren/PhySR))

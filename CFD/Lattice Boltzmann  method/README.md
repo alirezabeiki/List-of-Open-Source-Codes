@@ -21,6 +21,7 @@ The Lattice Boltzmann Method: Principles and Practice. ([C++](https://github.com
 
 ### 2021
 * Analysis of electro-osmotic flow by lattice Boltzmann simulation and Helmholtz-Smoluchowski formula. ([Fortran](https://github.com/parkerYang0715/EOF))
+* Hybrid GPU - CPU Navier-Stokes lattice Boltzmann method for urban wind flow (Thesis) ([C++](https://github.com/cfdemons/LUMA))
 
 
 ## Open Source Softwares

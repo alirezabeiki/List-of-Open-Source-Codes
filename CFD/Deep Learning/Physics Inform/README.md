@@ -69,7 +69,7 @@
 * Predicting high-fidelity multiphysics data from low-fidelity fluid flow and transport solvers using physics-informed neural networks. ([PyTorch](https://github.com/amir-cardiolab/PINN_multiphysics_multifidelity))
 * Wavelet Neural Operator A Neural Operator for parametric Partial Differential Equations.
 * Multifidelity deep neural operators for efficient learning of partial differential equations with application to fast inverse design of nanoscale heat transport. ([DeepONets](https://github.com/lu-group/multifidelity-deeponet))
-
+* DRVN (deep random vortex network) A new physics-informed machine learning method for simulating and inferring incompressible fluid flows. ([PyTorch](https://github.com/optray/Deep_Random_Vortex_Networks_DRVN))
 
 ## Open Source Softwares
 * Deep learning for Engineers - Physics Informed Deep Learning . ([TensorFlow](https://github.com/sciann/sciann))

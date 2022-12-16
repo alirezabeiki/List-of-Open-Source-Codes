@@ -47,6 +47,8 @@
 * Deep Learning for Reduced Order Modelling and Efficient Temporal Evolution of Fluid Simulations. ([Pytorch](https://github.com/pranshupant/DL-ROM))
 * Hierarchical Deep Learning of Multiscale Differential Equation Time-Steppers, (https://github.com/luckystarufo/multiscale_HiTS)
 * Latent GAN Using a Latent Space-Based GAN for Rapid Forecasting of CFD Models. ([Pytorch](https://github.com/DL-WG/LatentGAN))
+* Convolutional neural networks for fluid flow analysis toward effective metamodeling and low dimensionalization. ([TensorFlow](https://github.com/Masaki-Morimoto/CNN-MLP_and_CNN-AE-network-structure-with-supplemental-scalar-inputs))
+
 
 ## 2022
 * PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs. ([Pytorch](https://github.com/paulpuren/PhyCRNet))
@@ -62,6 +64,8 @@
 * An AI-based non-intrusive reduced-order model for extended domains applied to multiphase flow in pipes. ([TensorFlow](https://github.com/acse-zrw20/DD-GAN-AE))
 * An unsupervised latent/output physics-informed convolutional-LSTM network for solving partial differential equations using peridynamic differential operator. ([TensorFlow](https://github.com/ehsanhaghighat/PI-rCNN))
 * Derivative-informed projected neural networks for high-dimensional parametric maps governed by PDEs. ([Python](https://github.com/hippylib/hippyflow))
+* Comparing different nonlinear dimensionality reduction techniques for data-driven unsteady fluid flow modeling. ([Pytorch](https://github.com/amir-cardiolab/Nonlinear-dimensionality-reduction))
+* Machine Learning for Cardiovascular Modeling Predicting Time Dependent Aerotic Blood Flow (OpenFOAM) (Thesis) ([TensorFlow](https://github.com/SylleH/Thesis))
 
 ## 2023
 * Multiresolution convolutional autoencoders. ([Pytorch](https://github.com/luckystarufo/MrCAE))

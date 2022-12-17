@@ -70,6 +70,11 @@
 * Wavelet Neural Operator A Neural Operator for parametric Partial Differential Equations.
 * Multifidelity deep neural operators for efficient learning of partial differential equations with application to fast inverse design of nanoscale heat transport. ([DeepONets](https://github.com/lu-group/multifidelity-deeponet))
 * DRVN (deep random vortex network) A new physics-informed machine learning method for simulating and inferring incompressible fluid flows. ([PyTorch](https://github.com/optray/Deep_Random_Vortex_Networks_DRVN))
+* Uncovering near-wall blood flow from sparse data with physics-informed neural networks featured. ([Pytorch](https://github.com/amir-cardiolab/PINN-wss))
+
+### 2023
+* Theory-guided physics-informed neural networks for boundary layer problems with singular perturbation. ([PyTorch](https://github.com/amir-cardiolab/BL-PINN))
+
 
 ## Open Source Softwares
 * Deep learning for Engineers - Physics Informed Deep Learning . ([TensorFlow](https://github.com/sciann/sciann))
@@ -80,3 +85,6 @@
 * JAXFLUIDS - A Differentiable Fluid Dynamics Package. ([Unknown](https://github.com/tumaer/JAXFLUIDS))
 * neurodiffeq: A library for solving differential equations using neural networks based on PyTorch. ([Pytorch](https://github.com/NeuroDiffGym/neurodiffeq))
 * TensorDiffEq: Efficient and Scalable Physics-Informed Deep Learning. ([TensorFlow](https://github.com/tensordiffeq/TensorDiffEq))
+
+## Some Repositories
+* PINN Examples. ([PyTorch](https://github.com/amir-cardiolab/PINN-examples))

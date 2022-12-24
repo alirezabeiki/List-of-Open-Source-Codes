@@ -14,7 +14,7 @@
 ### 2019
 * Discovery of Nonlinear Multiscale Systems Sampling Strategies and Embeddings, ([Python](https://github.com/kpchamp/MultiscaleDiscovery))
 * Data-driven discovery of coordinates and governing equations, ([Python](https://github.com/kpchamp/SindyAutoencoders))
-
+* Equation Discovery Using Fast Function Extraction a Deterministic Symbolic Regression Approach. ([Python](https://github.com/sayin/Data_Driven_Symbolic_Regression))
 
 ### 2020
 * Automatic Differentiation to Simultaneously Identify Nonlinear Dynamics and Extract Noise Probability Distributions from Data, ([Python](https://github.com/dynamicslab/modified-SINDy)).

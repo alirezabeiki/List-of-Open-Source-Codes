@@ -22,6 +22,9 @@
 * Phase-based control of periodic fluid flows ([MATLAB](https://github.com/nairaditya/Phase-control-fluid-flow))
 * Active flow control in simulations of fluid flows based on deep reinforcement learning ([Pytorch](https://github.com/darshan315/flow_past_cylinder_by_DRL))
 
+### 2022
+* 2022 DRLinFluids An open-source Python platform of coupling deep reinforcement learning and OpenFOAM. ([OpenFOAM](https://github.com/venturi123/DRLinFluids))
+
 
 ## Code
 * DMDc on Flow over a Cylinder for control with MPC ([Python](https://github.com/kommalapatisahil/DMDc_FlowControl))

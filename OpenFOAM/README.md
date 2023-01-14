@@ -52,6 +52,8 @@
 * A porous multiphase toolbox. ([porousMultiphaseFoam](https://github.com/phorgue/porousMultiphaseFoam))
 * Lagrangian Particle Tracking on a GPU. ([GPULagrangianFoam](https://github.com/geekynils/GPULagrangianFoam)) - ([Thesis Link](https://github.com/geekynils/Thesis))
 * Simulation of wave dynamics. ([olaFlow](https://github.com/phicau/olaFlow))
+* A VoF-based multiphase solver including heat transfer. ([thermocapillaryInterFoam](https://github.com/pzimbrod/thermocapillaryInterFoam))
+* Fluid-particle coupling for multiphase flow based on PhasicFlow. ([PhasicFlow-coupling](https://github.com/PhasicFlow/PhasicFlow-coupling))
 
 ### _1.8 Molecular Dynamics_
 
@@ -65,6 +67,7 @@
 * Actuator line modeling of vertical-axis turbines. ([turbinesFoam](https://github.com/turbinesFoam/turbinesFoam))
 * Generalization of Erik Svenning's solver. ([multipleDiskSimpleFoam](https://github.com/EdgarAMO/multipleDiskSimpleFoam))
 * Actuator Cylinder. ([actuatorCylinderSimpleFoam](https://github.com/EdgarAMO/actuatorCylinderSimpleFoam-solver))
+* Modified OpenFOAM solvers for accademic use. ([plasmaFOAM](https://github.com/GeorgeVafakos/plasmaFOAM))
 
 ### _1.10 Others_
 * several additional solvers for OpenFOAM. ([myFoam](https://github.com/furstj/myFoam))
@@ -142,112 +145,106 @@
 * Small OpenFoam tutorials to help people to properly validate a CFD tool. ([openfoamtutorials](https://gitlab.com/mAlletto/openfoamtutorials/-/tree/master))
 
 ### _1. Compressible Flow_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * shock boundary layer interactions in the transonic buffet flow of a compressor cascade. ([DLR-buffet](https://github.com/jiaqiwang969/DLR-buffet))
 * Transonic Airoil. ([transonicAirfoilSolution](https://github.com/tahayasardemir/transonicAirfoilSolution))
 * Transonic Nozzle. ([transonicNozzle](https://github.com/tahayasardemir/transonicNozzle))
 * Transonic shock buffets at a NACA-0012 airfoil. ([naca0012_shock_buffet](https://github.com/AndreWeiner/naca0012_shock_buffet))
-</details>
 
 ### _2. Dynamic Mesh_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * Vertical-Axis Wind Turbine. ([VAWTCleanCase](https://github.com/h7ris/VAWTCleanCase))
 * Vertical-Axis Wind Turbine. ([VAWT-structured-mesh](https://github.com/EdgarAMO/VAWT-structured-mesh))
 * Vertical-Axis Wind Turbine. ([OpenFOAM-2D-VAWT](https://github.com/traviscarrigan/OpenFOAM-2D-VAWT))
 * Shape Optmisation of a Vertical Axis Wind Turbine using Invasive Weed Optimisation. ([Shape-Opt-VAWT](https://github.com/pranshupant/Shape-Opt-VAWT))
 * This project implements a moving mesh technique on OpenFOAM to solve the case a weir gate opening. ([WeirWithMovingGate](https://github.com/esteldunedain/WeirWithMovingGate))
 * This repository shows the implementation of an overset grid example using OpenFOAM-v2112. ([OversetSkipping](https://github.com/esteldunedain/OversetSkipping))
-</details>
+* OpenFOAM case for the analysis of Archimedes wind Turbine. ([ Archimedes_Wind_Turbine](https://github.com/barbariansubhkaran/Archimedes_Wind_Turbine))
+* Centrifugal compressor simulation using custom solver. ([Centrifugal_Compressor_OpenFoam](https://github.com/barbariansubhkaran/Centrifugal_Compressor_OpenFoam))
+
 
 ### _3. Incompressible Flow_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * Flow past an airfoil. ([airfoilFoam](https://github.com/socrates-ferna/airfoilFoam))
 * NACA airfoil simulation. ([NACAFoil-OpenFOAM](https://github.com/petebachant/NACAFoil-OpenFOAM))
 * Python script to run CFD analysis on airfoil using **OpenFOAM** to simulate and **gmsh** to generate mesh. ([Case](https://github.com/enritoomey/airfoilFOAM))
-</details>
+* External aerodynamics of Formula one car using OpenFOAM. ([Formula_one_CFD](https://github.com/barbariansubhkaran/Formula_one_CFD))
+* Works done in OpenFOAM. ([ openFOAM](https://github.com/MagnoEfren/openFOAM))
+* OpenFOAM simulation for flow around cylinder - wake von-Kàrman. ([ Vortex_Shedding_Turbulence](https://github.com/davidricarteSP/Vortex_Shedding_Turbulence))
+
 
 ### _4. Mesh Generation_
-<details>
-  <summary>Click to expand!</summary>
   
 #### _4.1 Block Mesh_
+
 * Flow past a cylinder. ([Von-Karman-Street-Cylinder](https://github.com/EdgarAMO/Von-Karman-Street-Cylinder))
 * Flow past an 2D Airfoil. ([airfoil2D](https://github.com/EdgarAMO/airfoil2D))
 
 #### _4.2 snappyHexMesh_
+
 * 3D Circular Pipe. ([pipeflow_snappyHexMesh](https://github.com/theodoreOnzGit/pipeflow_snappyHexMesh))
 * Flow past a sphere. (Flow-past-a-sphere-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-sphere-OpenFOAM))
 * Flow past a car. ([Flow-past-a-car-OpenFOAM](https://github.com/EdgarAMO/Flow-past-a-car-OpenFOAM))
 
 #### _4.3 Adaptive Mesh
+
 * This project shows how to use the gradient of flow variables as a criteria to control Adaptive Mesh Refinement (AMR) for OpenFOAM simulations. ([GradientAMR](https://github.com/esteldunedain/GradientAMR))
-</details>
 
 
 ### _5. Optimization_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * Shape Optmisation of a Vertical Axis Wind Turbine using Invasive Weed Optimisation. ([Shape-Opt-VAWT](https://github.com/pranshupant/Shape-Opt-VAWT))
-</details>
+* Masterthesis Computational Mechanics (TUM) ([ OpenFOAM301](https://github.com/DennisKasper/OpenFOAM301))
+
 ### _6. Source Terms_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * VAWT by ALM. ([NTNU-HAWT-turbinesFoam](https://github.com/petebachant/NTNU-HAWT-turbinesFoam))
 * Wind farm by actuator disk. ([actuator-disk-farm](https://github.com/EdgarAMO/actuator-disk-farm)])
 * This project implements a sink term applicable to the momentum conservation equation of the multiphase OpenFOAM solvers (interFoam, interIsoFoam), which attenuates velocities in the air phase. ([airVelocityAttenuation](https://github.com/esteldunedain/airVelocityAttenuation))
-</details>
+
 
 ### _7. Turbulence Modeling_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * Parametric analysis for SSTtransition turbulence model. ([SSTtransition-turbulence-model](https://github.com/jiaqiwang969/SSTtransition-turbulence-model))
 * Turbulence Model verification. ([Backward Facing Step](https://github.com/jiaqiwang969/backward-step))
 * Turbulence Model verification. ([2D Bump](https://github.com/jiaqiwang969/Axis-2Dbump))
 * Jupyter notebook to calculate various initial values of nut, k, epsilon, omega etc., as well as yPlus and other useful parameters. ([OpenFoamCaseSetupWithPython](https://github.com/aqeelahmed168/OpenFoamCaseSetupWithPython))
-</details>
+
 
 ### _8. Utilities_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * Some Python utilities I found useful in manipulating OpenFOAM cases in automated simulation procedures.. ([openfoam_python](https://github.com/openfoamtutorials/openfoam_python))
 * OpenFOAM cases from my YouTube channel. ([OpenFOAM-Cases-Interfluo](https://github.com/Interfluo/OpenFOAM-Cases-Interfluo))
-</details>
+
 
 ### _9. Multiphase_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * implement the Local Time Stepping (LTS) scheme on OpenFOAM. ([DamReservoirLTS](https://github.com/esteldunedain/DamReservoirLTS))
 * disk dropped from a 30 cm height, into a water tank of 15x15 cm2. ([DiskEntry](https://github.com/esteldunedain/DiskEntry))
-</details>
+* HDPE injection molding simulation using OpenFOAM. ([ Injection_Molding_OpenFOAM](https://github.com/barbariansubhkaran/Injection_Molding_OpenFOAM))
 
 ### _9. Combustion_
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * Advanced combustion tutorial cases for DLBFoam library for OpenFOAM. ([DLBFoam-Advanced-Tutorials](https://github.com/Aalto-CFD/DLBFoam-Advanced-Tutorials))
-</details>
+*  Heptane Combustion using SprayFOAM. ([Heptane_Combustion](https://github.com/barbariansubhkaran/Heptane_Combustion))
+
+### _10. Aeroacoustic_
+ 
+* Modeling of sound waves around an obstacle using OpenFOAM. ([Acoustics_obstacle](https://github.com/barbariansubhkaran/Acoustics_obstacle))
+
+
+### _11. Heat Transfer_
+
+* Conjugate heat transfer simulation of a Shell and tube heat exchanger. ([Shell-and-Tube-Heat-exchanger-OpenFOAM](https://github.com/barbariansubhkaran/Shell-and-Tube-Heat-exchanger-OpenFOAM))
+*  openfoam2012_projects. ([ openfoam2012_projects](https://github.com/juliet29/openfoam2012_projects))
 
 
 ## **Programming**
-<details>
-  <summary>Click to expand!</summary>
-  
+
 * [BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - set of OpenFOAM® programming tutorials!
 * [foam2Columns](https://github.com/ZhangYanTJU/foam2Columns) - foam2Columns
-</details>
-
-
+* [GPUFoam](https://github.com/majidh87/GPUFoam)
+* [CppPracticeForOpenFOAM](https://github.com/chichuDlong/CppPracticeForOpenFOAM)
 
 
 

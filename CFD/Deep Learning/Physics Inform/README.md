@@ -71,10 +71,11 @@
 * Multifidelity deep neural operators for efficient learning of partial differential equations with application to fast inverse design of nanoscale heat transport. ([DeepONets](https://github.com/lu-group/multifidelity-deeponet))
 * DRVN (deep random vortex network) A new physics-informed machine learning method for simulating and inferring incompressible fluid flows. ([PyTorch](https://github.com/optray/Deep_Random_Vortex_Networks_DRVN))
 * Uncovering near-wall blood flow from sparse data with physics-informed neural networks featured. ([Pytorch](https://github.com/amir-cardiolab/PINN-wss))
+* AutoKE An automatic knowledge embedding framework for scientific machine learning. ([PyTorch](https://github.com/menggedu/AutoKE))
 
 ### 2023
 * Theory-guided physics-informed neural networks for boundary layer problems with singular perturbation. ([PyTorch](https://github.com/amir-cardiolab/BL-PINN))
-
+* Uncertainty Quantification in Scientific Machine Learning Methods, Metrics, and Comparisons. ([Python](https://github.com/Crunch-UQ4MI/neuraluq/blob/main/examples/Darcy_NN.py))
 
 ## Open Source Softwares
 * Deep learning for Engineers - Physics Informed Deep Learning . ([TensorFlow](https://github.com/sciann/sciann))

@@ -42,6 +42,11 @@
 * FlexWing-ROM A matlab framework for data-driven reduced-order modeling of flexible wings. ([MATLAB](https://github.com/urban-fasel/FlexWingROM))
 
 
+### 2023
+* Residual dynamic mode decomposition: robust and verified Koopmanism. ([MATLAB](https://github.com/MColbrook/Residual-Dynamic-Mode-Decomposition))
+* Combining Dynamic Mode Decomposition with Ensemble Kalman Filtering for Tracking and Forecasting. ([Python](https://github.com/falconical/DMDEnKF))
+
+
 ## Open Source Softwares
 * PyDMD: Python Dynamic Mode Decomposition, ([Python](https://github.com/mathLab/PyDMD))
 
